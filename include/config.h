@@ -5,7 +5,7 @@
 
 
 #define aptDispMax 4
-
+#define aptFontsMax 4
 #define DUB_PIRINTF printf
 //#define DUB_PIRINTF(x...)
 
