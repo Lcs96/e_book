@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-
+#define aptEncodeMax 7
 #define aptDispMax 4
 #define aptFontsMax 4
 #define DUB_PIRINTF printf
